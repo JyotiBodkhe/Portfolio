@@ -33,7 +33,7 @@ import startechLogo from './assets/work_logo/startech.png';
 
 import LazarevLogo from './assets/work_logo/Lazarev.png';
 import BrandiumLogo from './assets/work_logo/Brandium.png';
-import cmLogo from './assets/work_logo/cm.png';
+import PortfolioLogo from './assets/work_logo/Portfolio.png';
 
 
 export const SkillsInfo = [
@@ -136,13 +136,13 @@ export const SkillsInfo = [
 
     {
       id: 0,
-      title: "Coding Master",
+      title: "My-Portfolio",
       description:
-        "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-      image: cmLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-      github: "https://codingmasterweb.in/",
-      webapp: "https://codingmasterweb.in/",
+        "I developed a personal portfolio website using React.js to showcase my projects, skills, and contact information. The site features a responsive design, smooth animations, and interactive UI for a professional online presence.",
+      image: PortfolioLogo,
+      tags: ["React.jS", "Email.js", "TailwindCss"],
+      github: "https://github.com/JyotiBodkhe/Portfolio",
+      webapp: "https://portfolio-p8gx.onrender.com",
     },
 
     {
